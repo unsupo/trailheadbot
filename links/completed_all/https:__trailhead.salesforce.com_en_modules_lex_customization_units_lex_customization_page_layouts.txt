@@ -1,0 +1,1 @@
+https://trailhead.salesforce.com/en/modules/lex_customization/units/lex_customization_page_layouts

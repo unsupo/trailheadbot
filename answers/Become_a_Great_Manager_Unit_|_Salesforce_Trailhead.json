@@ -1,0 +1,89 @@
+{
+  "link": "https://trailhead.salesforce.com/en/modules/manage_the_sfdc_way_great_management/units/great_management_becoming_great",
+  "title": "Become a Great Manager Unit | Salesforce Trailhead",
+  "shortLink": "great_management_becoming_great",
+  "questions": [
+    {
+      "title": "1One way to build your “Salesforce Smart” skills is to:",
+      "answers": [
+        {
+          "content": "A Review the goals of other managers in your business and on other teams",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "C Meet with your direct manager to validate your team’s priorities",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(4)"
+        }
+      ],
+      "wrongAnswers": [
+        {
+          "content": "D Give frequent formal and informal business presentations",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(5)"
+        },
+        {
+          "content": "B Use a time management system",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(3)"
+        }
+      ],
+      "correctAnswer": {
+        "content": "A Review the goals of other managers in your business and on other teams",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(2)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1)"
+    },
+    {
+      "title": "2One way to build your “Compelling Communicator” skills is to:",
+      "answers": [
+        {
+          "content": "A Seek opportunities to deliver presentations inside and outside the company",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "B Seek coaching on your presentation skills",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "C Share your team’s successes at an all-hands meeting",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(4)"
+        },
+        {
+          "content": "D All of the above",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [],
+      "correctAnswer": {
+        "content": "D All of the above",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(5)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2)"
+    },
+    {
+      "title": "3One way to build your “Motivate and Champion” skills is to:",
+      "answers": [
+        {
+          "content": "A Hold regular one-on-one meetings without cancelling",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "B Shadow someone in another part of the business",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "C Meet monthly with the team to review priorities",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(4)"
+        },
+        {
+          "content": "D Invite managers from other parts of the business to share their goals with you",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [],
+      "correctAnswer": {
+        "content": "A Hold regular one-on-one meetings without cancelling",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(2)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3)"
+    }
+  ]
+}

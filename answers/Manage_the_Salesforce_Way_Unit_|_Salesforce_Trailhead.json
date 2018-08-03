@@ -1,0 +1,117 @@
+{
+  "link": "https://trailhead.salesforce.com/en/modules/manage_the_sfdc_way_great_management/units/great_management_the_salesforce_way",
+  "title": "Manage the Salesforce Way Unit | Salesforce Trailhead",
+  "shortLink": "great_management_the_salesforce_way",
+  "questions": [
+    {
+      "title": "1The “Motivate and Champion” characteristic means that managers:",
+      "answers": [
+        {
+          "content": "B Develop and coach others",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(3)"
+        }
+      ],
+      "wrongAnswers": [
+        {
+          "content": "D Move quickly and adapt to changes",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(5)"
+        },
+        {
+          "content": "C Build relationships and work cross functionally",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(4)"
+        },
+        {
+          "content": "A Motivate customers and partners by their knowledge of the business",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(2)"
+        }
+      ],
+      "correctAnswer": {
+        "content": "B Develop and coach others",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(3)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1)"
+    },
+    {
+      "title": "2The “Win as a Team” characteristic means that managers:",
+      "answers": [
+        {
+          "content": "A Influence others and build relationships",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "B Celebrate individual and team successes",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "D Are passionate storytellers",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [
+        {
+          "content": "C Know their business, customers, and partners",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(4)"
+        }
+      ],
+      "correctAnswer": {
+        "content": "A Influence others and build relationships",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(2)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2)"
+    },
+    {
+      "title": "3When managers demonstrate “Get it Done”, they:",
+      "answers": [
+        {
+          "content": "A Work with conviction",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "B Inspire others",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "C Work across functions",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(4)"
+        },
+        {
+          "content": "D Champion employees",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [],
+      "correctAnswer": {
+        "content": "A Work with conviction",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(2)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3)"
+    },
+    {
+      "title": "4When managers are “Salesforce Smart”, they:",
+      "answers": [
+        {
+          "content": "A Know the business",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(4) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "B Know their own business",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(4) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "C Know their customers and partners",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(4) \u003e div.question_answer.clearfix:nth-child(4)"
+        },
+        {
+          "content": "D All of the above",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(4) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [],
+      "correctAnswer": {
+        "content": "D All of the above",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(4) \u003e div.question_answer.clearfix:nth-child(5)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(4)"
+    }
+  ]
+}

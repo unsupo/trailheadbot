@@ -1,0 +1,92 @@
+{
+  "baseUri": "",
+  "questions": [
+    {
+      "title": "1Collaborating in Salesforce is helpful for:",
+      "answers": [
+        {
+          "content": "A Building an online, searchable content source over time.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "C Crowdsourcing expertise from across your company.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(4)"
+        },
+        {
+          "content": "E All of the above",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(6)"
+        }
+      ],
+      "wrongAnswers": [
+        {
+          "content": "D Creating groups, following people and topics, and asking questions.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(5)"
+        },
+        {
+          "content": "B Collaborating in context on individual deals and records.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(3)"
+        }
+      ],
+      "correctAnswer": {
+        "content": "E All of the above",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(6)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1)"
+    },
+    {
+      "title": "2CRM stands for:",
+      "answers": [
+        {
+          "content": "A Customer Relationship Management.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "B Client Relations Management.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "D Collaborate Relate Market.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [
+        {
+          "content": "C Cloud Relational Metadata.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(4)"
+        }
+      ],
+      "correctAnswer": {
+        "content": "A Customer Relationship Management.",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(2)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2)"
+    },
+    {
+      "title": "3When converting a lead, the following three records are created:",
+      "answers": [
+        {
+          "content": "A Contract, quote, and opportunity.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "B Contact, account, and report.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "C Contact, account, and opportunity.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(4)"
+        },
+        {
+          "content": "D Field, app, and object.",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [],
+      "correctAnswer": {
+        "content": "C Contact, account, and opportunity.",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(4)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3)"
+    }
+  ]
+}

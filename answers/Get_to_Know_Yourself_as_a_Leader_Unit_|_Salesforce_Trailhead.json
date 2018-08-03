@@ -1,0 +1,90 @@
+{
+  "link": "https://trailhead.salesforce.com/en/modules/manage_the_sfdc_way_great_management/units/great_management_getting_to_know_yourself",
+  "title": "Get to Know Yourself as a Leader Unit | Salesforce Trailhead",
+  "shortLink": "great_management_getting_to_know_yourself",
+  "questions": [
+    {
+      "title": "1Managers who are self-aware:",
+      "answers": [
+        {
+          "content": "B Have to work harder to be successful",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "D Get better results",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [
+        {
+          "content": "A Are more likely to lead low performing teams",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "C Always take action to improve themselves",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(4)"
+        }
+      ],
+      "correctAnswer": {
+        "content": "D Get better results",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1) \u003e div.question_answer.clearfix:nth-child(5)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(1)"
+    },
+    {
+      "title": "2If someone is nervous about giving you feedback on your improvement areas, ask:",
+      "answers": [
+        {
+          "content": "A What am I doing wrong?",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "B What’s one thing I could do differently?",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "D What am I not doing well?",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [
+        {
+          "content": "C What negative feedback do you have?",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(4)"
+        }
+      ],
+      "correctAnswer": {
+        "content": "B What’s one thing I could do differently?",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2) \u003e div.question_answer.clearfix:nth-child(3)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(2)"
+    },
+    {
+      "title": "3An effective way to identify your strengths is to:",
+      "answers": [
+        {
+          "content": "A Ask your manager for his/her opinion",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(2)"
+        },
+        {
+          "content": "B Ask your team members for their input",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(3)"
+        },
+        {
+          "content": "C Look at your performance reviews",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(4)"
+        },
+        {
+          "content": "D All of the above",
+          "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(5)"
+        }
+      ],
+      "wrongAnswers": [],
+      "correctAnswer": {
+        "content": "D All of the above",
+        "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3) \u003e div.question_answer.clearfix:nth-child(5)"
+      },
+      "selector": "#challenge \u003e section.challenge-section.challenge-section-container.quiz \u003e div.bottom-section \u003e div.questions \u003e div.question:nth-child(3)"
+    }
+  ]
+}

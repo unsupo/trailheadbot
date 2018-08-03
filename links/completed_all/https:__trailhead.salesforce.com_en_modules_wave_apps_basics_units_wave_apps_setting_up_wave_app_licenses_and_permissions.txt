@@ -1,0 +1,1 @@
+https://trailhead.salesforce.com/en/modules/wave_apps_basics/units/wave_apps_setting_up_wave_app_licenses_and_permissions

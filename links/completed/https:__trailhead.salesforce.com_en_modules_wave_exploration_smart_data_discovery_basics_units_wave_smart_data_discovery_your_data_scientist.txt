@@ -1,0 +1,1 @@
+https://trailhead.salesforce.com/en/modules/wave_exploration_smart_data_discovery_basics/units/wave_smart_data_discovery_your_data_scientist

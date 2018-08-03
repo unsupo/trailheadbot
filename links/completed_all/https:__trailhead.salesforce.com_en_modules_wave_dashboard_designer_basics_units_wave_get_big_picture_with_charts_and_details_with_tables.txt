@@ -1,0 +1,1 @@
+https://trailhead.salesforce.com/en/modules/wave_dashboard_designer_basics/units/wave_get_big_picture_with_charts_and_details_with_tables

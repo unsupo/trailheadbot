@@ -1,0 +1,1 @@
+https://trailhead.salesforce.com/en/modules/lex_javascript_button_migration/units/javascript_buttons_to_lightning_actions
